@@ -64,7 +64,7 @@ function App() {
             <Alert />
           </AlertProvider>
         </AppProvider>
-      </div>{" "}
+      </div>
     </>
   );
 }

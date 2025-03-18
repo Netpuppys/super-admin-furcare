@@ -240,7 +240,7 @@ const SalesBillingPage = () => {
                         <img
                           src={download}
                           alt=""
-                          className="w-[20px] ml-[30px] h-fit"
+                          className="w-[20px] ml-[30px] cursor-pointer h-fit"
                         />
                       </div>
                     ))}

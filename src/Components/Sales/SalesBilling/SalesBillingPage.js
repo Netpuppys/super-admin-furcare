@@ -76,7 +76,7 @@ const SalesBillingPage = () => {
         </div>
         <div
           onClick={handleInvoiceView}
-          className="w-fit flex flex-col justify-center items-center"
+          className="w-fit flex flex-col justify-center cursor-pointer items-center"
         >
           <img src={invoiceIcon} alt="" className="" />
           <p className="text-black text-[17px] leading-[22px] -tracking-[0.43px]">
